@@ -9,4 +9,3 @@ Fullstack ad platform project made with Typescript.
 - Node.js (server)
 - React (web)
 - React Native (mobile)
-# nlw-esports
